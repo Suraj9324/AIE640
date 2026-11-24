@@ -1,0 +1,13 @@
+venv/
+aie640/
+
+*.env
+*.gguf
+*.json
+*.txt
+*.log
+*.pt
+*.safetensors
+*.bin
+*.pth
+*.tex
